@@ -15,7 +15,6 @@
       <nav>
         <a href="<%= it.basePath ?? '' %>/index.html">Home</a>
         <a href="<%= it.basePath ?? '' %>/about.html">About</a>
-        <a href="<%= it.basePath ?? '' %>/counter.html">Counter</a>
       </nav>
     </div>
   </header>
